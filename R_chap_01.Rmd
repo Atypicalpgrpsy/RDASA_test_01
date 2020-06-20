@@ -1,11 +1,4 @@
 ---
-output:
-  html_document:
-    df_print: paged
-  word_document: 
-    toc: yes
----
----
 title: "从零到无穷R：R语言数据分析入门与进阶"
 
 | **序号** | **标题** | 
